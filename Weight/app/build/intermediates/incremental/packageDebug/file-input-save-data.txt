@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Mar 01 16:59:42 CST 2017
+2.base=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.set=ANDROID_RESOURCE
+3.base=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.set=ANDROID_RESOURCE
+4.base=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\result.xml
+0.base=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\AndroidCLONE\\android02180021-master\\android02180021-master\\02 Weight\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.set=ANDROID_RESOURCE

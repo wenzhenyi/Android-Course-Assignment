@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCLONE\android02180021-master\android02180021-master\02 Weight\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="506170a270bbde0be1c79afe637815278b06e349">
+        <dex dex="E:\AndroidCLONE\android02180021-master\android02180021-master\02 Weight\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dd6efa83c3581e6ce4e709f618f95e801c4e0594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidCLONE\android02180021-master\android02180021-master\02 Weight\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f1ae4dd97a05a1b62d2e8dc0687a948cf1fe77f">
+        <dex dex="E:\AndroidCLONE\android02180021-master\android02180021-master\02 Weight\app\build\intermediates\pre-dexed\debug\instant-run_0c5705d3364c7e68d8f67437482dac8f7ce7ee37.jar" />
+    </item>
+
+</items>
