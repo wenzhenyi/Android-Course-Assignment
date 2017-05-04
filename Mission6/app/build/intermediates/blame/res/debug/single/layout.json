@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidCLONE\\android20170329-master\\android02180021-master\\06 DDMS\\LogActivity\\LogActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidCLONE\\android20170329-master\\android02180021-master\\06 DDMS\\LogActivity\\LogActivity\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Users\\zzm\\AndroidStudioProjects\\LogActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Users\\zzm\\AndroidStudioProjects\\LogActivity\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidCLONE\\android20170329-master\\android02180021-master\\06 DDMS\\LogActivity\\LogActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",
+        "source": "E:\\AndroidCLONE\\android20170329-master\\android02180021-master\\06 DDMS\\LogActivity\\LogActivity\\app\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "E:\\Users\\zzm\\AndroidStudioProjects\\LogActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",
+        "source": "E:\\Users\\zzm\\AndroidStudioProjects\\LogActivity\\app\\src\\main\\res\\layout\\second.xml"
+    }
+]
